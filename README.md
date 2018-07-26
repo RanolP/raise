@@ -1,3 +1,7 @@
+[works-on-my-machine]: https://img.shields.io/badge/works-on%20my%20machine-green.svg
+
+![works on my machine][works-on-my-machine]
+
 # raise
 
 Ranol's Advanced Interactive Server Executor
